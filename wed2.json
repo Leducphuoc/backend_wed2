@@ -7,7 +7,7 @@
 	{	
 	"name": "Leducphuoc",	
 	"email": "Leducphuoc.tdc2019@gmail.com",	
-	"homepage": "https://Leducphuoc.com"	
+	"homepage": ""	
 	}	
 	],	
 	"license": "MIT",	
@@ -15,7 +15,7 @@
 	},	
 	"autoload": {	
 	"psr-4": {	
-	"Tailieuweb\\Backend\\": "/"	
+	"Leducphuoc\\Backend\\": "/"	
 	}	
 	},	
 	"minimum-stability": "dev"	
